@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    background-color: blue;
+    height: 100px;
+    
+}
+
+body{
+	font-size: 30px;
+	font-family: sans-serif;
+    font-weight: 200;
+	color: black;
+}
+.view-results {
+    padding: 3px;
+    cursor: pointer;
+    font-size: inherit;
+    color: white;
+    background: blue;
+    text-align: center;
+}
+
+
+
+
